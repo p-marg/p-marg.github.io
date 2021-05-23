@@ -8,20 +8,20 @@ html {
 :root {
 	--bg: #fefefe;
 	--fg: #444;
-	--link: #0645ad;
-	--link_v: #0b0080;
-	--link_h: #06e;
+	--link: #8823fe;
+	--link_v: #8823fe;
+	--link_h: #8889fe;
 	--bg_grey: #eee;
 	--dark_grey: #999;
 }
 [data-theme="dark"] {
-	--bg: #222;
-	--fg: #fefefe;
-	--link: #4d7dcb;
-	--link_v: #99a5d3;
-	--link_h: #4c7ecf;
+	--bg: #010001;
+	--fg: #feefa9;
+	--link: #8889fe;
+	--link_v: #8889fe;
+	--link_h: #88F;
 	--bg_grey: #333;
-	--dark_grey: #333;
+	--dark_grey: #ffefba;
 }
 
 
@@ -31,7 +31,7 @@ html {
 
 body {
 	color: var(--fg);
-	font-family: 'Open Sans', sans-serif;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	font-size: 12px;
 	line-height: 1.5em;
 	padding: 1em;
