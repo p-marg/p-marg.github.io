@@ -26,14 +26,14 @@ html {
 
 
 .logo {
-	max-height: 30px
+	max-height: 60px
 }
 
 body {
 	color: var(--fg);
 	font-family: 'Open Sans';
 	font-size: 12px;
-	line-height: 1.5em;
+	line-height: 1em;
 	padding: 1em;
 	margin: auto;
 	max-width: 52em;
