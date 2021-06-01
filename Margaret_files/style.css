@@ -6,7 +6,7 @@ html {
 }
 
 :root {
-	--bg: #feefa9;
+	--bg: #ffeebb;
 	--fg: #444;
 	--link: #8823fe;
 	--link_v: #8823fe;
@@ -16,7 +16,7 @@ html {
 }
 [data-theme="dark"] {
 	--bg: #010001;
-	--fg: #feefa9;
+	--fg: #ffeebb;
 	--link: #8889fe;
 	--link_v: #8889fe;
 	--link_h: #88F;
