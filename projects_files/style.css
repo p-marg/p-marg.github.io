@@ -33,7 +33,7 @@ body {
 	color: var(--fg);
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
-	line-height: 1em;
+	line-height: 1.5em;
 	padding: 1em;
 	margin: auto;
 	max-width: 52em;
